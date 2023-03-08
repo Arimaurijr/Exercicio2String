@@ -2,6 +2,7 @@
 {
     private static void Main(string[] args)
     {
+
         string palavra1, palavra2;
 
         Console.Write("DIGITE A PRIMEIRA PALVRA: ");
